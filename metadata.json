@@ -1,0 +1,14 @@
+{
+  "name": "YouTube Search Hub",
+  "description": "A modern, minimal search engine hub with integrated YouTube video discovery, seamless playback, and multi-engine web search capabilities.",
+  "keywords": [
+    "search engine",
+    "youtube player",
+    "minimal UI",
+    "react",
+    "video discovery",
+    "multi-engine search"
+  ],
+  "author": "Search Mini Team",
+  "requestFramePermissions": []
+}
